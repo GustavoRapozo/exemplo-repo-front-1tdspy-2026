@@ -1,0 +1,23 @@
+/* COMENTÁRIO EM CSS */
+
+/* TRABALHANDO ESTILO DO BODY */
+
+body{
+  background-color: #1a1a1a;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header{
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
